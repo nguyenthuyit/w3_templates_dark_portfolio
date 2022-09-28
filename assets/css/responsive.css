@@ -1,0 +1,9 @@
+@media(max-width: 739px){
+    #content{
+        margin-left: 0;
+        
+    }
+    .bg-s{
+        background-color: rgba(0, 0, 0, 0.6);
+    }
+}
